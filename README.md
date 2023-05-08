@@ -17,13 +17,11 @@ To install and run the project locally, follow these steps:
 - Run the application using streamlit run app.py
 
 ## Usage
-Once the application is running, you can interact with the personal AI by typing your query into the text input field and clicking the "Submit" button. The AI will then generate a personalized response based on your query and my personal data.
+Once the application is running, you can interact with the personal AI by typing your query into the text input field and press enter to apply. The AI will then generate a personalized response based on your query and my personal data.
 
 ## Contributing
 If you would like to contribute to this project, feel free to submit a pull request. Please include a detailed description of your changes and any relevant documentation.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## Acknowledgments
 I would like to thank the following individuals and organizations for their contributions to this project:
